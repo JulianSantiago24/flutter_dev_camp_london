@@ -1,5 +1,8 @@
 # Flutter Dev Camp London
 
+![image](https://github.com/JulianSantiago24/flutter_dev_camp_london/assets/76113377/473a46f0-0cf8-40fc-bba2-56a9f93257e6)
+
+
 ![coverage][coverage_badge]
 [![style: very good analysis][very_good_analysis_badge]][very_good_analysis_link]
 [![License: MIT][license_badge]][license_link]
